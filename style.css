@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.box {
+  width: 600px;
+  height: 600px;
+
+  background-color: burlywood;
+  overflow: hidden;
+  position: relative;
+}
+
+.box1 {
+  height: 100px;
+  position: absolute;
+  width: 100px;
+
+  background-color: darkcyan;
+}
